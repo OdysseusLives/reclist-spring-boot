@@ -5,5 +5,7 @@ Build:
 
 
 To stand up groovy MVC (after installing spring boot CLI): 
+```
 $ cd /src/main/java/hello
 $ spring run app.groovy
+```
